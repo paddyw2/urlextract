@@ -1,1 +1,3 @@
-# ipextract - extract ip addresses and hostnames from strings a file
+# urlextract
+
+Extract urls, hostnames, and ip addresses from strings.
